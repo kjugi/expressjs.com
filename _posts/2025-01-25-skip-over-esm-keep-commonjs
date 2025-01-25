@@ -1,0 +1,14 @@
+---
+title: "Skip over ESM and keep Commonjs approach"
+tags: news, 
+author: Filip Kudla and Express Technical Committee
+description: Quick and ultimate summary of all similar issues created in the past and for the future.
+---
+
+We aim to bring attention to a wider audience about our recent decisions to export type of our libraries (commonjs). We receive these questions quite frequently so we decided to publish a dedicated ADR about it.
+
+---
+
+## Context
+
+Based on the document prepared in this [PR](https://github.com/expressjs/discussions/pull/323).
